@@ -1,6 +1,6 @@
 # Top deep learning Github repositories
 
-Here's a list of top 100 deep learning Github repositories sorted by the number of stars.
+Here's a list of top 100 deep learning Github repositories sorted by the number of stars. The query that has been used with Github search API are "deep-learning".
 
 Date: 03/16/2018
 
